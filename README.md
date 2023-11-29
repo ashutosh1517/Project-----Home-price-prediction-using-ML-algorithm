@@ -1,9 +1,10 @@
-# Project-----Home-price-prediction-using-ML-algorithm
+# Project-----Home-price-prediction-using-Ensemble_learning-ML-algorithm
 
 Objective - To predict the home price based on different home features
 
-- Performed Data pre-processing (data loading and cleaning, outlier removal, feature engineering, dimensionality
+– Performed Data pre-processing (data loading and cleaning, outlier removal, feature engineering, dimensionality
 reduction, visualization & making the Data ready for model training, using pandas, matplotlib, one-hot-encoding).
-Experimented selected Regression algorithms, Linear reg, Lasso, SVR, RF, KNR, B.Ridge, DT using Sklearn, and
-evaluated the best performing algorithm and parameters using gridsearchCV, best-score: 0.85 on cross-validation.
-Developed the model with the best-scoring algorithm, predicted some test-samples & saved the model using pickle.
+Applied different algorithms, Linear regression, Lasso (regularization), SVR, RF, Decision Tree using Scikitlearn,
+and evaluated the best-performing algorithm and parameters using gridsearchCV, then applied Ensemble Learning.
+Achieved 85.5% accuracy. Developed the final model with the Ensemble learning, predicted some test-samples &
+saved the model using pickle.
