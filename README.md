@@ -1,6 +1,6 @@
-# Project-----Home-price-prediction-using-Ensemble_learning-ML-algorithm
+# Project-----Price prediction using Ensemble model - Regression, Machine Learning
 
-Objective - To predict the home price based on different home features
+Objective - To predict the home price based on input home features
 
 – Performed Data pre-processing (data loading and cleaning, outlier removal, feature engineering, dimensionality
 reduction, visualization & making the Data ready for model training, using pandas, matplotlib, one-hot-encoding).
